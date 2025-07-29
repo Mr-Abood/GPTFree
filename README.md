@@ -1,4 +1,4 @@
-# Algion - Free OpenAI API
+# Algion - Free OpenAI-compatible API
 
 🚀 Access powerful AI models through our OpenAI-compatible API. Completely free and ready to use.
 
