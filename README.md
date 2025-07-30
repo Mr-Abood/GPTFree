@@ -124,4 +124,4 @@ Made with ❤️ for the developer community
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mr-Abood/FreeGPT&type=Date)](https://star-history.com/#Mr-Abood/FreeGPT&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Mr-Abood/GPTFree&type=Date)](https://star-history.com/#Mr-Abood/GPTFree&Date)
