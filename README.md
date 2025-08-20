@@ -70,8 +70,13 @@ curl -X POST "https://api.algion.dev/v1/chat/completions" \
 
 ## Available Models
 
+- `gpt-5-mini`
 - `gpt-4.1`
 - `gpt-4o`
+- `gpt-4o-mini`
+- `gpt-4-0125-preview`
+- `gpt-4`
+- `gpt-3.5-turbo`
 - More models coming soon!
 
 ## Features
